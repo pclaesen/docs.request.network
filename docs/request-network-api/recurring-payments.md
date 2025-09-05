@@ -1,5 +1,5 @@
 ---
-description: Create subscriptions that would automatically be paid through out a timeframe.
+description: Create subscriptions that would automatically be paid throughout a timeframe.
 ---
 
 # Recurring payments
@@ -120,7 +120,7 @@ The response includes a payment permit payload (EIP-712 typed data) for signatur
 The payer must:
 
 * Approve the recurring payment contract to spend the required amount of tokens (if not already approved)
-* Sign the payment permit using EIP-712 compatible wallet
+* Sign the payment permit using an EIP-712 compatible wallet
 
 **Example**
 

@@ -231,7 +231,7 @@ try {
 ## Support and Resources
 
 * **Migration Support**: [Book a call](https://calendly.com/mariana-rn/request-network-demo-docs) with our team for migration assistance
-* **GitHub Examples**: Check the `easy-invoice` repository for V2 implementation examples
+* **GitHub Examples**: Check the [easy-invoice](https://github.com/RequestNetwork/easy-invoice) repository for V2 implementation examples
 
 ## Backward Compatibility
 

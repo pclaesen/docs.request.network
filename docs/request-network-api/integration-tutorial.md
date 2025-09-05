@@ -758,7 +758,7 @@ We'll be using [wagmi](https://wagmi.sh/) to enable wallet connection. To do tha
 ```typescript
 // src/config/wagmi.ts
 import { createConfig, http } from 'wagmi'
-import {  sepolia } from 'wagmi/chains'
+import { sepolia } from 'wagmi/chains'
 import { injected } from 'wagmi/connectors'
 
 export const config = createConfig({
